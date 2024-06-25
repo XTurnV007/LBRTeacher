@@ -1,0 +1,7 @@
+PyMuPDF
+chardet
+pyvis 
+networkx
+graphviz
+streamlit
+duckduckgo_search
