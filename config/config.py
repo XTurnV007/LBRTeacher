@@ -1,2 +1,2 @@
-openai_api_key = 'cfd887665bced5dbd651ce7d167bbeb6.TnJkmf6J0uQ57L3a'
+openai_api_key = 'your api_key'
 MAX_HISTORY_LENGTH = 5
